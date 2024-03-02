@@ -1,3 +1,4 @@
+
 Exercice:
 
 You have to implement a function which takes two parameters. The first one is
