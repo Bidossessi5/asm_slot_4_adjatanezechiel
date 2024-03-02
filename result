@@ -1,0 +1,101 @@
+
+		Sentence: Mourad est gEntil
+
+
+test0: OK
+test1: OK
+test2: OK
+test3: OK
+test4: OK
+test5: OK
+test6: OK
+test7: OK
+test8: OK
+test9: OK
+test10: OK
+test11: OK
+test12: OK
+test13: Invalid Output
+	Input: [' ']
+	Expected: ['-84']
+	But Got:  ['192']
+test14: OK
+test15: OK
+test16: OK
+test17: OK
+test18: OK
+test19: OK
+test20: OK
+test21: OK
+
+
+
+		Sentence: Il A des BandAnas et dEs fIlets de poiSsons
+
+
+test0: OK
+test1: OK
+test2: OK
+test3: OK
+test4: OK
+test5: OK
+test6: OK
+test7: OK
+test8: OK
+test9: OK
+test10: OK
+test11: Invalid Output
+	Input: ['S']
+	Expected: ['19']
+	But Got:  ['243']
+test12: Invalid Output
+	Input: ['A']
+	Expected: ['1']
+	But Got:  ['225']
+test13: Invalid Output
+	Input: [' ']
+	Expected: ['-84']
+	But Got:  ['192']
+test14: OK
+test15: Invalid Output
+	Input: ['I']
+	Expected: ['9']
+	But Got:  ['233']
+test16: OK
+test17: OK
+test18: OK
+test19: OK
+test20: OK
+test21: OK
+
+
+
+		Sentence: 
+
+
+test0: OK
+test1: OK
+test2: OK
+test3: OK
+test4: OK
+test5: OK
+test6: OK
+test7: OK
+test8: OK
+test9: OK
+test10: OK
+test11: OK
+test12: OK
+test13: OK
+test14: OK
+test15: OK
+test16: OK
+test17: OK
+test18: OK
+test19: OK
+test20: OK
+test21: OK
+
+
+Average tests PASSED: 92.42% ====> 61/66 tests
+Average tests FAILED: 7.58% ====> 5/66 tests
